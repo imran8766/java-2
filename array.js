@@ -5,8 +5,4 @@ console.log(number[0]); // etar dara positon likhe dela setai output hoi.positio
  console.log(myage);
 
 
- var nw = [31, 32, 33, 34];
-nw[2] = 39;// arry er moddher input change korar neyom
-console.log(nw);
-var position = nw.indexOf(32);
-console.log(position);
+ 
