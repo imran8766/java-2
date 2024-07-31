@@ -17,3 +17,9 @@ switch(num){
 
 
 }
+
+function nre(nbr){
+    var result = nbr * 2;
+    console.log(result)
+}
+nre(20);
